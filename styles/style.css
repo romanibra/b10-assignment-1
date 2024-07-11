@@ -109,3 +109,18 @@ color: aliceblue;
      width: 950px;
     
  }
+ .banner-two{
+   height: 400px;
+   width: 1180px;
+   margin: 0px auto;
+   border-radius: 20px ;
+   display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+background-image: url(/assets/handshake.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 20px;}
